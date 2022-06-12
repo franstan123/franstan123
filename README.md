@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @franstan123
-- 👀 I’m interested in Python Coding and Android App Development
-- 🌱 I’m currently learning Computer Science Engineering at N.M.A.M. Institute of Technology
+- 👀 I’m interested in Python Coding, Automation and Android App Development
+- 👨‍🎓 Computer Science Engineering graduate from N.M.A.M. Institute of Technology
+- 👨‍💻 I'm currently interning at Juniper Networks
 - 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me : Email: franstan123@gmail.com | instagram: @franstan.dsouza
 
